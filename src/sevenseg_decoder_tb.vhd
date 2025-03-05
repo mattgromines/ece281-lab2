@@ -1,17 +1,10 @@
 ---------------------------------------------------------------------------------
--- Company: 
--- Engineer: 
+-- Engineer: C1C Matthew Romines
 -- 
 -- Create Date: 03/04/2025 03:58:38 PM
--- Design Name: 
+-- Design Name: Testbench for sevenseg_decoder
 -- Module Name: sevenseg_decoder_tb - Behavioral
--- Project Name: 
--- Target Devices: 
--- Tool Versions: 
--- Description: 
--- 
--- Dependencies: 
--- 
+-- Project Name: Lab 2
 -- Revision:
 -- Revision 0.01 - File Created
 -- Additional Comments:

@@ -1,18 +1,10 @@
 ----------------------------------------------------------------------------------
--- Company: 
--- Engineer: 
+-- Engineer: C1C Matthew Romines
 -- 
 -- Create Date: 03/04/2025 03:51:16 PM
--- Design Name: 
+-- Design Name: sevenseg_decoder
 -- Module Name: sevenseg_decoder - Behavioral
--- Project Name: 
--- Target Devices: 
--- Tool Versions: 
--- Description: 
--- 
--- Dependencies: 
--- 
--- Revision:
+-- Project Name: Lab 2
 -- Revision 0.01 - File Created
 -- Additional Comments:
 -- 
